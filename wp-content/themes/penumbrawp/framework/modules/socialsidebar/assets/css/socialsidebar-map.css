@@ -1,0 +1,6 @@
+.edgtf-social-sidebar-holder {position: fixed;left: 60px;top: 50%;z-index: 105;-webkit-transform: translateY(-22%);-moz-transform: translateY(-22%);transform: translateY(-22%);}
+.edgtf-social-sidebar-holder.right {right: 24px;left: inherit;}
+.edgtf-social-sidebar-holder .edgtf-icon-shortcode {display: block;}
+.edgtf-social-sidebar-holder .edgtf-icon-shortcode:last-child {margin-bottom: 0 !important;}
+.edgtf-social-sidebar-holder .edgtf-social-sidebar-text {font-family: "Roboto",sans-serif;letter-spacing: .35em;text-transform: uppercase;position: relative;left: -19px;top: -40px;font-size: 10px;-webkit-transform: rotate(-90deg);-moz-transform: rotate(-90deg);transform: rotate(-90deg);}
+.edgtf-theme-light-skin .edgtf-social-sidebar-holder .edgtf-social-sidebar-text {color: #aaa;}
